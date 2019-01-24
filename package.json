@@ -1,0 +1,15 @@
+{
+    "name": "wx-app",
+    "version": "0.0.1",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "dev": "gulp"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.0",
+        "gulp-clean": "^0.4.0",
+        "gulp-rename": "^1.4.0",
+        "gulp-stylus": "^2.7.0"
+    }
+}
