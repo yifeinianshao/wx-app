@@ -1,5 +1,7 @@
 {
     "name": "wx-app",
+    "description": "小程序gulp模版",
+    "author": "yfns",
     "version": "0.0.1",
     "main": "index.js",
     "license": "MIT",
